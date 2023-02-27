@@ -252,7 +252,8 @@ def week9():
                                 print(count)
                                 if y == 12:
                                     y = 0
-                                x += 1
+                                    x += 1
+                                
             #just a check to see if it is running and not frozen
             # print("Game 1 new scenario")
 
